@@ -27,7 +27,7 @@
 ## 📊 Estatísticas
 
 <p>
-<img height="200px" style="padding-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=ExceedEdits&show_icons=true&theme=tokyonight&custom_title=Estatísticas&locale=pt-br"/>
+<img height="175" style="padding-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api?username=ExceedEdits&show_icons=true&theme=tokyonight&custom_title=Estatísticas&locale=pt-br"/>
 
-<img height="200px" style="padding-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceedEdits&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
+<img height="175" style="padding-right: 10px;" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExceedEdits&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
 </p>
